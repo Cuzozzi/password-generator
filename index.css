@@ -101,7 +101,9 @@ html, body {
     border-radius: 6%;
     border: 0px solid #fff;
     color: #fff;
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
 }
 
 .btn:hover {
@@ -153,6 +155,8 @@ html, body {
     text-align: center;
     font-size: 25px;
     color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
 }
 
 .input-off {
@@ -176,6 +180,9 @@ input::-webkit-inner-spin-button {
     color: #42AF1F;
     margin-bottom: 10px; 
     text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    padding: 2px;
 } 
 
 input::-webkit-input-placeholder {
